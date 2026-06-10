@@ -17,3 +17,4 @@ test_images/
 dist/*.exe
 !dist/*
 !dist/DiskDoctor.exe
+dist/
