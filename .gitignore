@@ -14,3 +14,6 @@ backup/
 custom_emoji/
 .vscode/
 test_images/
+dist/*.exe
+!dist/*
+!dist/DiskDoctor.exe
