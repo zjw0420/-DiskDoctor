@@ -1,0 +1,38 @@
+{
+  "_comment": "Edit these to customize DiskDoctor's emoji. Save and restart the app.",
+  "size_moods": {
+    "huge": "🤯",
+    "very_big": "😱",
+    "big": "😫",
+    "medium_big": "😰",
+    "medium": "😬",
+    "small_big": "🤔",
+    "small": "😊",
+    "tiny": "🙂",
+    "micro": "😍"
+  },
+  "health": {
+    "great": "😎",
+    "good": "🙂",
+    "ok": "🤔",
+    "bad": "😟",
+    "terrible": "💀"
+  },
+  "cats": {
+    "huge_cat": "😿",
+    "big_cat": "😸",
+    "medium_cat": "😺",
+    "small_cat": "😻",
+    "tiny_cat": "🐱"
+  },
+  "categories": {
+    "图片": "🖼",
+    "视频": "🎬",
+    "音频": "🎵",
+    "文档": "📄",
+    "代码": "💻",
+    "压缩包": "📦",
+    "安装包": "📥",
+    "其他": "📁"
+  }
+}

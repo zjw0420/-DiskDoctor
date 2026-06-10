@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.db
+*.spec
+build/
+dist/
+uploads/
+outputs/
+segments/
+tasks/
+snapshots/
+reports/
+backup/
+custom_emoji/
+.vscode/
+test_images/

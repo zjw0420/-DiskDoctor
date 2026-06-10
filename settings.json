@@ -1,0 +1,15 @@
+{
+  "ai_mode": "local",
+  "api_key": "",
+  "provider": "deepseek",
+  "lang": "zh",
+  "emoji_style": "cat",
+  "ignore": [
+    "node_modules",
+    "__pycache__",
+    ".git",
+    "$RECYCLE.BIN"
+  ],
+  "theme": "light_blue_500",
+  "font_size": 18
+}
